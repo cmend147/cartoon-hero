@@ -1,0 +1,12 @@
+h1{
+	color: red; font-size: 90px
+}
+h2{
+	font-size: 22px; color: green; font-style: oblique;
+}
+#small{
+	color:orange; font-size: 36px; font-style:	normal; 
+}
+.fall{
+	text-decoration: line-through; color: yellow; font-style: oblique;
+}
